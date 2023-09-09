@@ -1,0 +1,5 @@
+STM=1
+LTM=1
+SmartTime=1
+WaitTime=10
+PrintSite=1
