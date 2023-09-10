@@ -59,7 +59,7 @@ Here are all of the characters that will be automatically removed from the searc
 .
 
 Given that all of these characters are relatively rare, they  only impede few things.
-In order to correctly identify hits when they occurr, all capital letters in the site data are automatically lowercased, so if you enter in a 
+In order to correctly identify hits when they occur, all capital letters in the site data are automatically lowercased, so if you enter in a 
 hit with capital letters in it, the hit will simply never be found
 
 Here is an example of how to add the ticker BRK-B:
